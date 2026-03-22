@@ -19,3 +19,7 @@ Personal development log — notes, findings, and ongoing work.
 - Bumped patch version
 - Investigated performance bottleneck, noted findings
 - Cross-checked behaviour against spec
+
+## 2026-03-23
+- Added CONTRIBUTING.md stub
+- Pinned dependency versions for reproducibility
